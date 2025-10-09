@@ -122,7 +122,7 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Don Xavier**
 - GitHub: [Xav Don](https://github.com/donxav)
 - LinkedIn: [Don Xavier](https://linkedin.com/in/don-xavier72)
 
