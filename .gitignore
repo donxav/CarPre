@@ -1,12 +1,13 @@
-# Virtual Environment
-venv/
-data/venv/
-
-# Jupyter Notebook
-.ipynb_checkpoints/
-*.ipynb_checkpoints
-
-# Python
 __pycache__/
-*.py[cod]
-*$py.class
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+data/raw/*
+data/processed/*
+!data/.gitkeep
+models/*
+.ipynb_checkpoints/
+.streamlit/
+
